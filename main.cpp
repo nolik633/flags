@@ -5,7 +5,6 @@ using namespace std;
 int main() {
     int a, b;
 
-    // Ввод данных пользователем
     cout << "Enter number A: ";
     cin >> a;
     cout << "Enter number B: ";
