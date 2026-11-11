@@ -29,6 +29,5 @@ int main() {
     
     cout << "A >> 1 (Shift): " << (a >> 1) << " (bin: " << bitset<8>(a >> 1) << ")" << endl;
 
-}
-
     return 0;  
+}
